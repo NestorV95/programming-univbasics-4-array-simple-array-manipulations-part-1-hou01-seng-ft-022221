@@ -1,5 +1,5 @@
 def using_push(colors_in_the_rainbow, next_color)
   colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
-  element = "violet"
-  updated_array = array.push element
+   = "violet"
+   = array.push element
 end
