@@ -14,6 +14,6 @@ def using_pop(continents)
 continents.pop
 end
 
-def pop_with_arg()
-  array.pop2
+def pop_with_arg(dog_breeds.size)
+  .pop2
 end 
