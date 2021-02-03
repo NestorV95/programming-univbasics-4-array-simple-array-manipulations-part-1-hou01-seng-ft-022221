@@ -13,4 +13,5 @@ end
 def using_pop(continents)
 continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
 eleted_string = continents.pop 
+return "Antarctica"
 end
