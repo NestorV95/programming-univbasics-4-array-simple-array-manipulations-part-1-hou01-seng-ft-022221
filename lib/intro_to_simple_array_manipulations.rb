@@ -11,7 +11,5 @@ updated_array = bouroughs_in_nyc.unshift new_neighborhood
 end
 
 def using_pop(continents)
-continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
-updated_array = continents.pop
-continents.collect
+continents.pop
 end
